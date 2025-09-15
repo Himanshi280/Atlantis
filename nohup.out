@@ -1,0 +1,14 @@
+{"level":"info","ts":"2025-09-15T13:52:08.457+0530","caller":"server/server.go:342","msg":"Supported VCS Hosts: Github","json":{}}
+{"level":"info","ts":"2025-09-15T13:52:08.627+0530","caller":"server/server.go:503","msg":"Utilizing BoltDB","json":{}}
+[31mError: initializing server: starting BoltDB: timeout (a possible cause is another Atlantis instance already running)[39m
+{"level":"info","ts":"2025-09-15T13:55:11.578+0530","caller":"server/server.go:342","msg":"Supported VCS Hosts: Github","json":{}}
+{"level":"info","ts":"2025-09-15T13:55:11.792+0530","caller":"server/server.go:503","msg":"Utilizing BoltDB","json":{}}
+{"level":"info","ts":"2025-09-15T13:55:11.795+0530","caller":"policy/conftest_client.go:168","msg":"failed to get default conftest version. Will attempt request scoped lazy loads DEFAULT_CONFTEST_VERSION not set","json":{}}
+{"level":"info","ts":"2025-09-15T13:55:11.796+0530","caller":"server/server.go:1111","msg":"Atlantis started - listening on port 4141","json":{}}
+{"level":"info","ts":"2025-09-15T13:55:11.796+0530","caller":"scheduled/executor_service.go:51","msg":"Scheduled Executor Service started","json":{}}
+{"level":"info","ts":"2025-09-15T13:55:23.276+0530","caller":"server/server.go:342","msg":"Supported VCS Hosts: Github","json":{}}
+{"level":"info","ts":"2025-09-15T13:55:23.449+0530","caller":"server/server.go:503","msg":"Utilizing BoltDB","json":{}}
+[31mError: initializing server: starting BoltDB: timeout (a possible cause is another Atlantis instance already running)[39m
+{"level":"info","ts":"2025-09-15T13:59:01.656+0530","caller":"server/server.go:342","msg":"Supported VCS Hosts: Github","json":{}}
+{"level":"info","ts":"2025-09-15T13:59:01.830+0530","caller":"server/server.go:503","msg":"Utilizing BoltDB","json":{}}
+[31mError: initializing server: starting BoltDB: timeout (a possible cause is another Atlantis instance already running)[39m
