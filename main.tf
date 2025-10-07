@@ -6,8 +6,4 @@ resource "null_resource" "example" {
   }
 }
 
-resource "null_resource" "example2" {
-  provisioner "local-exec" {
-    command = "echo Hello, Atlantis!222"
-  }
-}
+
